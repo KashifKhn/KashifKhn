@@ -1,16 +1,26 @@
-### Hi there 👋
+💫 About Me:
+I'm currently doing my bachelors in CS
+I'm interested in client side and back end development.
+I love to apply logic.
+I'm currently learning React and .NET.
 
-<!--
-**KashifKhn/KashifKhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn Stack Overflow
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C# C++ CSS3 Java HTML5 JavaScript PHP Firebase .Net Bootstrap React MySQL MicrosoftSQLServer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+😂 Random Dev Meme
+
+
