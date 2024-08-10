@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ Software engineering student pursuing a BS degree<br>⭐ Passionate about programming and applying logical thinking<br>⭐ Focused on learning full stack development<br>⭐ Proficient in multiple programming languages<br>⭐ Enjoys creating algorithms and working with backend technologies<br>⭐ Strong problem-solving skills<br>⭐ Dedicated to delivering high-quality software solutions<br>⭐ Eager to collaborate on innovative projects and contribute to the open-source community
+⭐ Software engineering student pursuing a BS degree<br>⭐ Passionate about programming and applying logical thinking<br>⭐ Focused on learning full stack engineering<br>⭐ Proficient in multiple programming languages<br>⭐ Enjoys creating algorithms and working with backend technologies<br>⭐ Strong problem-solving skills<br>⭐ Dedicated to delivering high-quality software solutions<br>⭐ Eager to collaborate on innovative projects and contribute to the open-source community
 
 
 ## 🌐 Socials:
