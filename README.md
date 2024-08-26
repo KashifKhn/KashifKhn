@@ -1,5 +1,6 @@
 # 💫 About Me:
 ⭐ CEO @ Ctrl+C Ctrl+V Inc. | Professional Linux wrangler | Currently lost in Vim, sending SOS via terminal. Still trying to exit...<br>
+⭐ Lead at LoopLogic™ | Linux loyalist, permanently trapped in Vim—send snacks, not `:q!`. <br>
 ⭐ Architect @ Terminal Adventures Co. | Linux and Vim enthusiast—stuck in an endless loop of trying to quit Vim. It's a lifestyle, not a bug!"<br>
 ⭐ Software engineering student pursuing a BS degree<br>⭐ Passionate about programming and applying logical thinking<br>⭐ Focused on learning full stack engineering<br>⭐ Proficient in multiple programming languages<br>⭐ Enjoys creating algorithms and working with backend technologies<br>⭐ Strong problem-solving skills<br>⭐ Dedicated to delivering high-quality software solutions<br>⭐ Eager to collaborate on innovative projects and contribute to the open-source community
 
