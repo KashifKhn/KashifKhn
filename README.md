@@ -17,7 +17,7 @@
 ## 🖥️ My Custom Linux Desktop Portfolio:
 I’ve crafted a unique portfolio experience that mimics a **Linux desktop environment** complete with a terminal. It’s an interactive journey through my projects, skills, and more. If you're a fellow Linux enthusiast or just curious, it's definitely worth a look!
 
-[**Comming Soon**](#) 
+[**My Portfolio**](https://portfolio-website-pi-drab.vercel.app/) 
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-khan-422707259/)
