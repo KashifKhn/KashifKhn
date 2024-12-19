@@ -1,10 +1,13 @@
 - 💻 Passionate about full-stack engineering, with a focus on backend development.  
-- 🔐 Specializes in building secure authentication systems.  
+- 🛠️ Experienced in designing RESTful APIs and building scalable backend systems.  
+- 🌟 Enjoys debugging, optimizing code, and solving complex problems.
+- 🌟 Loves learning, building projects, and contributing to open-source.    
 - 💡 Fluent in JavaScript, TypeScript, Java, Spring Boot, Nestjs, Nextjs React, Node.js, Python.
-- 🌟 Loves learning, building projects, and contributing to open-source.  
 - 🖥️ Created a Linux desktop-style portfolio with an interactive terminal. [**Explore My Portfolio**](https://portfolio-website-pi-drab.vercel.app/)  
 - ✍️ Writes blogs about coding tips, technical insights, and experiences. [**Read My Blogs**](https://myblogs-delta-nine.vercel.app/)  
 - 🖥️ By the way, I use Arch Linux and Neovim!  
+
+Let’s build something amazing together! 🚀  
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-khan-422707259/)  [![Portfolio](https://img.shields.io/badge/Portfolio-%231E90FF.svg?logo=vercel&logoColor=white)](https://portfolio-website-pi-drab.vercel.app/)   [![Blogs](https://img.shields.io/badge/Blogs-%23FFA500.svg?logo=hashnode&logoColor=white)](https://myblogs-delta-nine.vercel.app/)   [![Upwork](https://img.shields.io/badge/Upwork-%2300B489.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b2208c01a3279185?mp_source=share)
