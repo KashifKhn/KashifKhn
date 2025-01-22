@@ -4,7 +4,7 @@
 - 🌟 Loves learning, building projects, and contributing to open-source.    
 - 💡 Fluent in JavaScript, TypeScript, Java, Spring Boot, Nestjs, Nextjs React, Node.js, Python.
 - 🖥️ Created a Linux desktop-style portfolio with an interactive terminal. [**Explore My Portfolio**](https://kashifkhn.vercel.app/)  
-- ✍️ Writes blogs about coding tips, technical insights, and experiences. [**Read My Blogs**](https://myblogs-delta-nine.vercel.app/)  
+- ✍️ Writes blogs about coding tips, technical insights, and experiences. [**Read My Blogs**](https://blog-kashifkhn.vercel.app/)  
 - 🖥️ By the way, I use Arch Linux and Neovim!  
 
 Let’s build something amazing together! 🚀  
