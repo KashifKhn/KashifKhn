@@ -3,15 +3,15 @@
 - 🌟 Enjoys debugging, optimizing code, and solving complex problems.
 - 🌟 Loves learning, building projects, and contributing to open-source.    
 - 💡 Fluent in JavaScript, TypeScript, Java, Spring Boot, Nestjs, Nextjs React, Node.js, Python.
-- 🖥️ Created a Linux desktop-style portfolio with an interactive terminal. [**Explore My Portfolio**](https://kashifkhn.vercel.app/)  
-- ✍️ Writes blogs about coding tips, technical insights, and experiences. [**Read My Blogs**](https://blog-kashifkhn.vercel.app/)  
+- 🖥️ Created a Linux desktop-style portfolio with an interactive terminal. [**Explore My Portfolio**](https://kashifkhan.dev/)  
+- ✍️ Writes blogs about coding tips, technical insights, and experiences. [**Read My Blogs**](https://blog.kashifkhan.dev/)  
 - 🖥️ By the way, I use Arch Linux and Neovim!  
 
 
 Let’s build something amazing together! 🚀  
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-khan-422707259/)  [![Portfolio](https://img.shields.io/badge/Portfolio-%231E90FF.svg?logo=vercel&logoColor=white)](https://kashifkhn.vercel.app/)   [![Blogs](https://img.shields.io/badge/Blogs-%23FFA500.svg?logo=hashnode&logoColor=white)](https://blog-kashifkhn.vercel.app/)   [![Upwork](https://img.shields.io/badge/Upwork-%2300B489.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b2208c01a3279185?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-khan-422707259/)  [![Portfolio](https://img.shields.io/badge/Portfolio-%231E90FF.svg?logo=vercel&logoColor=white)](https://kashifkhan.dev/)   [![Blogs](https://img.shields.io/badge/Blogs-%23FFA500.svg?logo=hashnode&logoColor=white)](https://blog.kashifkhan.dev/)   [![Upwork](https://img.shields.io/badge/Upwork-%2300B489.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b2208c01a3279185?mp_source=share)
  
 
 # 💻 Tech Stack:
@@ -20,7 +20,6 @@ Let’s build something amazing together! 🚀
 
 ### 💻 OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KashifKhn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
